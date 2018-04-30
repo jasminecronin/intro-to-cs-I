@@ -10,4 +10,5 @@ Working with Turtle Graphics in Python. Given data representing a circle and a l
  - r
  - X1, Y1
  - X2, Y2
-Where the first two lines are the coordinates of the center of the circle and its radius, respectively, and the last two lines are the coordinates for the endpoints of the line segment.
+
+Where the first two lines are the coordinates of the center of the circle and its radius, and the last two lines are the coordinates for the endpoints of the line segment.
