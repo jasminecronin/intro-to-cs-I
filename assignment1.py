@@ -30,19 +30,19 @@ def draw_circle(xc, yc, r):
 
 def calc_a(x1, y1, x2, y2):
     """Calculates the first coefficient for the quadratic formula."""
-    a = (((x2 - x1)** 2) + ((y2 - y1)** 2))
+    a = (((x2 - x1) ** 2) + ((y2 - y1) ** 2))
     return a
 
 
 def calc_b(xc, yc, x1, y1, x2, y2):
     """Calculates the second coefficient for the quadratic formula."""
-    b = 2 * ((x1 - xc)*(x2 - x1) + (y1 - yc)*(y2 - y1))
+    b = 2 * ((x1 - xc) * (x2 - x1) + (y1 - yc) * (y2 - y1))
     return b
 
 
 def calc_c(xc, yc, r, x1, y1):
     """Calculate the third coefficient for the quadratic formula."""
-    c = ((x1 - xc)** 2) + ((y1 - yc)** 2) - (r ** 2)
+    c = ((x1 - xc) ** 2) + ((y1 - yc) ** 2) - (r ** 2)
     return c
 
 
@@ -73,13 +73,13 @@ def alpha_zero(a, b, c):
 
 def alpha_pos(a, b, c):
     """Calculates the first alpha when we have two intersections."""
-    alpha = (-b + math.sqrt(determinant( a, b, c ))) / (2 * a)
+    alpha = (-b + math.sqrt(determinant(a, b, c))) / (2 * a)
     return alpha
 
 
 def alpha_neg(a, b, c):
     """Calculates the second alpha when we have two intersections."""
-    alpha = (-b - math.sqrt(determinant( a, b, c ))) / (2 * a)
+    alpha = (-b - math.sqrt(determinant(a, b, c))) / (2 * a)
     return alpha
 
 
