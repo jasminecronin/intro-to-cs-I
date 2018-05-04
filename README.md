@@ -12,3 +12,9 @@ Working with Turtle Graphics in Python. Given data representing a circle and a l
  - X2, Y2
 
 Where the first two lines are the coordinates of the center of the circle and its radius, and the last two lines are the coordinates for the endpoints of the line segment.
+
+### Assignment 2 - Chasing Alice
+
+A simple game again using Turtle Graphics. You control a turtle named Alex who has to catch another turtle named Alice. Turns for movement alternate. Alice can turn left or right 90°, or move forward 20 pixels. Alex can turn left or right 45°, or move forward or backward 30 pixels.
+
+Running the file opens the game in a new window with a blank console. Moves are input into the console, and enter must be pressed to register each move.
