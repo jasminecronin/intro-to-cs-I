@@ -16,16 +16,17 @@ times recorded are the running times of the
 build_semantic_descriptors_from_files function. The tests were conducted on
 the computers in the CPSC labs.
 
-TEST NO.           OUTPUT
-     1           Accuracy: 77.8%    Run Time: 14.61 sec.
-     2           Accuracy: 77.8%    Run Time: 14.63 sec.
-     3           Accuracy: 77.8%    Run Time: 14.42 sec.
-     4           Accuracy: 77.8%    Run Time: 14.66 sec.
-     5           Accuracy: 77.8%    Run Time: 14.8 sec.
-     6           Accuracy: 77.8%    Run Time: 14.63 sec.
-     7           Accuracy: 77.8%    Run Time: 14.62 sec.
-     8           Accuracy: 77.8%    Run Time: 14.8 sec.
-     9           Accuracy: 77.8%    Run Time: 14.75 sec.
-    10           Accuracy: 77.8%    Run Time: 14.76 sec.
+|TEST NO. | OUTPUT |
+|---|---|
+|     1   |        Accuracy: 77.8%    Run Time: 14.61 sec.|
+|     2   |        Accuracy: 77.8%    Run Time: 14.63 sec.|
+|     3   |        Accuracy: 77.8%    Run Time: 14.42 sec.|
+|     4   |        Accuracy: 77.8%    Run Time: 14.66 sec.|
+|     5   |        Accuracy: 77.8%    Run Time: 14.8 sec.|
+|     6   |        Accuracy: 77.8%    Run Time: 14.63 sec.|
+|     7   |        Accuracy: 77.8%    Run Time: 14.62 sec.|
+|     8   |        Accuracy: 77.8%    Run Time: 14.8 sec.|
+|     9   |        Accuracy: 77.8%    Run Time: 14.75 sec.|
+|    10   |        Accuracy: 77.8%    Run Time: 14.76 sec.|
 
 
