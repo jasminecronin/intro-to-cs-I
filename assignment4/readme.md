@@ -28,7 +28,7 @@ Rush Hour - Text-Based Version:
 
 Rush Hour - Graphical Version
 
-	Load a game file with the folliwng call:	
+	Load a game file with the following call:	
 		python3 RushHourGUI.py game0.txt
 		
 		
