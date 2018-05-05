@@ -18,3 +18,14 @@ Where the first two lines are the coordinates of the center of the circle and it
 A simple game again using Turtle Graphics. You control a turtle named Alex who has to catch another turtle named Alice. Turns for movement alternate. Alice can turn left or right 90°, or move forward 20 pixels. Alex can turn left or right 45°, or move forward or backward 30 pixels.
 
 Running the file opens the game in a new window with a blank console. Moves are input into the console, and enter must be pressed to register each move.
+
+### Assignment 3 - AI Training
+
+A Game of Nuts: some number of nuts are on a table. Two players take turns picking up between 1 and 3 nuts. The player who has to pick up the last nut from the table loses the game.
+
+This game can be played with:
+* Two human players, each taking turns entering their choice into the console
+* A human player and an untrained AI player that effectively makes their choices randomly
+* A human player and a trained AI player. To play this, the AI first plays 100,000 practice games with another AI. Each AI records a probability table to tell them the move with the greatest chance of winning the game given the current number of nuts on the table.
+
+This game is text-based and played from the console.
