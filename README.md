@@ -29,3 +29,7 @@ This game can be played with:
 * A human player and a trained AI player. To play this, the AI first plays 100,000 practice games with another AI. Each AI records a probability table to tell them the move with the greatest chance of winning the game given the current number of nuts on the table.
 
 This game is text-based and played from the console.
+
+### Assignment 4 - The Object of the Game
+
+A Rush Hour clone, playable in a text-based or graphical version. The folder contains a readme with details for operation. 5 sample game setup files are provided and playable.
