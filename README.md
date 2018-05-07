@@ -39,3 +39,7 @@ A Rush Hour clone, playable in a text-based or graphical version. The folder con
 An intelligent system that learns to answer questions about similarity of words. It processes a large amount of text and build semantic vectors for every unique word that appears in the text based on the other words that appear in the same sentence. When taking the test, the program compares the vector of a given word with the vectors of 2 other choices and calculated which choice is more similar in meaning to the given word. 
 
 The folder contains a readme with details on the accuracy and runtime.
+
+### Exercises
+
+These are very small programs or just functions that were assigned as weekly practice. Details of functionality for each submission are included in the relevant file.
