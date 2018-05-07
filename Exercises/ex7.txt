@@ -1,0 +1,32 @@
+Chapter 12, exercise 2
+
+a) How many functions are in the math module?
+
+	There are 44 functions in the math module.
+
+b) What does math.ceil do? What about math.floor? (hint: both floor and ceil
+	expect floating point arguments.)
+	
+	math.ceil returns the smallest integer value that is greater than or 
+	equal to the input. Ex. 8.5 returns 9
+	
+	math.floor returns the largest integer value that is
+	smaller than or equal to the input. Ex. 8.5 returns 8
+	
+c) Describe how we have been computing the same value as math.sqrt without
+	using the math module.
+	
+	Taking the square root of a number is the same as raising that number to
+	the exponent 0.5. So without the math module, we can find the square root
+	of a number x with the operation:
+			x ** 0.5
+	
+d) What are the two data constants in the math module?
+
+	The two data constants are:
+		e = 2.718281828459045
+		pi = 3.141592653589793
+		
+	There is also a third:
+		tau = 6.283185307179586
+	but tau is simply 2pi, so it's not a totally separate data constant.
