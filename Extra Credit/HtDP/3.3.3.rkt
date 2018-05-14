@@ -1,0 +1,6 @@
+(define (area-cylinder r h)
+  (+ (* 2 (area-circle r)) (* h (circumference r))))
+(define (area-circle r)
+  (* r r pi))
+(define (circumference r)
+  (* 2 pi r))
