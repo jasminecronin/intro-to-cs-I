@@ -1,3 +1,4 @@
+
 # CPSC 231
 ## Introduction to Computer Science for Computer Science Majors I
 
@@ -43,3 +44,12 @@ The folder contains a readme with details on the accuracy and runtime.
 ### Exercises
 
 These are very small programs or just functions that were assigned as weekly practice. Details of functionality for each submission are included in the relevant file.
+
+## Extra Credit
+
+This is additional work I've done outside of what was required for the course, done only to for my own learning.
+
+### How to Design Programs Exercises
+
+Short warmups and practices from the textbook How to Design Programs, First Edition.
+
