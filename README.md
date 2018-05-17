@@ -53,3 +53,6 @@ This is additional work I've done outside of what was required for the course, d
 
 Short warmups and practices from the textbook How to Design Programs, First Edition.
 
+### Practices
+
+Longer practice problems done as extra assignments.
