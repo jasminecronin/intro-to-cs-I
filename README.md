@@ -1,6 +1,5 @@
 
-# CPSC 231
-## Introduction to Computer Science for Computer Science Majors I
+# Introduction to Computer Science for Computer Science Majors I
 
 Coursework for CPSC 231 for the University of Calgary. This is made up of small weekly exercises plus 5 larger assignments.
 
