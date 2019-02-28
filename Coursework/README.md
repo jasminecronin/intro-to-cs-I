@@ -1,19 +1,19 @@
 
 # Introduction to Computer Science for Computer Science Majors I
 
-# # Coursework
+## Coursework
 
 The work for this course is divided into Tutorials, Exercises, and Assignments.
 
-# # # Tutorials
+### Tutorials
 
 Hands-on practice problems given in a lab setting.
 
-# # # Exercises
+### Exercises
 
 Small weekly assignments to write small programs or sometimes single functions.
 
-# # # Assignments
+### Assignments
 
 Five larger assignments worth a larger portion of the grade.
 
