@@ -42,7 +42,8 @@ real solutions corresponding to the intersection points when the line cuts throu
 
 ### Instructions
 
-![Firgure 1](/images/logo.png)
+![Figure 1](Coursework/Assignments/Assignment 1/assigment1-1.png)
+
 Figure 1: Lines and circles: (a) two points, (x1; y1) and (x2; y2), dene a line and the parameter  denes a position
 along the line, and (b) the ways in which a line intersects (or does not intersect) a circle.
 1. Read in values for xc, yc, r, x1, y1, x2, and y2. Your program should be able to read the values from the
