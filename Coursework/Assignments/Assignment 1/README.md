@@ -1,4 +1,4 @@
-## Assignment 1: Finding Intersections with Analytic Geometry
+## Assignment 1
 
 Analytical geometry, geometry embedded in a coordinate system, is fundamental to computer graphics and physics
 simulation (both key elements of video games). You will write a program that computes and displays the intersection
