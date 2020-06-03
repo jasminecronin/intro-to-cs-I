@@ -42,31 +42,12 @@ real solutions corresponding to the intersection points when the line cuts throu
 
 ### Instructions
 
-![Figure 1](/Coursework/Assignments/Assignment 1/assigment1-1.png?raw=true)
+![Figure 1](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%201/assigment1-1.png)
 
-Figure 1: Lines and circles: (a) two points, (x1; y1) and (x2; y2), dene a line and the parameter  denes a position
+Figure 1: Lines and circles: (a) two points, (x<sub>1</sub>, y<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>), define a line and the parameter α defines a position
 along the line, and (b) the ways in which a line intersects (or does not intersect) a circle.
-1. Read in values for xc, yc, r, x1, y1, x2, and y2. Your program should be able to read the values from the
-example input les when redirected to stdin.
+
+1. Read in values for x<sub>c</sub>, y<sub>c</sub>, r, x<sub>1</sub>, y<sub>1</sub>, x<sub>2</sub>, and y<sub>2</sub>. Your program should be able to read the values from the
+example input files when redirected to stdin.
 2. Use the turtle graphics module to display the line segment and the circle.
 3. Compute the positions of the intersections between the line segment and circle, and display them if they exist.
-To get full marks, you must make eective use of conditional statements, comments, and functions. There are
-examples of suitable displays in Figure 2 for the sample input les provided with the assignment.
-Here are some suggestions to help you.
-1. You may, for this assignment, assume that we will test your program with properly formed four-line input les
-containing
- xc, yc
- r
- x1, y1
- x2, y2
-Thus, the following Python statement can read the rst line of the le.
-xc,yc = eval(input())
-This is a risky way to handle input because your Python program will crash if the input is not properly formed
-to match what is on the left-hand side of the assignment. However, you do not have the tools to do a better
-job of input yet, so this simple approach will be sucient for this assignment. You may also assume that all
-input we test your program with will t into a 800-by-600 pixel display.
-2. So, when you run your program, the command will look something like this.
-$ python myprog.py < sample1.dat
-The < character directs python to get its stdin from the le sample1.dat.
-3. Remember to make good use of functions in your code, and good documentation is always a requirement for
-any programs you write.
