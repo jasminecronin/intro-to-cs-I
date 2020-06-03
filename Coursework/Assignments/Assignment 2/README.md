@@ -1,19 +1,6 @@
 
-# Introduction to Computer Science for Computer Science Majors I
+## Assignment 2 - Chasing Alice
 
-## Coursework
+![Cap 1](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%202/assignment2-1.png)
 
-The work for this course is divided into Tutorials, Exercises, and Assignments.
-
-### Tutorials
-
-Hands-on practice problems given in a lab setting.
-
-### Exercises
-
-Small weekly assignments to write small programs or sometimes single functions.
-
-### Assignments
-
-Five larger assignments worth a larger portion of the grade.
-
+![Cap 2](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%202/assignment2-2.png)
