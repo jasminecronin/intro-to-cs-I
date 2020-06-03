@@ -1,5 +1,5 @@
 
 # Introduction to Computer Science for Computer Science Majors I
 
-Work done for an introductory computer science course. The Coursework folder contains work that was assigned for the course. The Extra Credit folder contains extra work that I explored for my own interest.
+Work done for an introductory computer science course at the University of Calgary. These are topics I explored for my own interest and were not completed for credit for the course.
 
