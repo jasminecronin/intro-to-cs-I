@@ -1,13 +1,25 @@
+## Assignment 5
+
+![Cap 1](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%205/assignment5-1.png)
+
+![Cap 2](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%205/assignment5-2.png)
+
+![Cap 3](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%205/assignment5-3.png)
+
+### Results
 
 To run the tests, names of the text files were hardcoded into the program.
 These are marked in the main function.
-        test.txt        The synonyms test
-        Proust.txt      Swann's Way, by Marcel Proust
-        Tolstoy.txt     War and Peace, by Leo Tolstoy
+
+>        test.txt        The synonyms test
+
+>        Proust.txt      Swann's Way, by Marcel Proust
+
+>        Tolstoy.txt     War and Peace, by Leo Tolstoy
 
 
 
-TESTS
+### TESTS
 
 The synonyms test used was the text file provided for the assignment. The 
 novels used were the Tolstoy and Proust indicated in the requirements. The 
