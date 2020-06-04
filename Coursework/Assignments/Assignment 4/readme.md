@@ -1,4 +1,10 @@
-Rush Hour - Text-Based Version:
+## Assignment 4
+
+![Cap 1](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%204/assignment4-1.png)
+
+![Cap 2](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%204/assignment4-2.png)
+
+### Rush Hour - Text-Based Version:
 
 	Load a game file with the following call:
 		python3 RushHourGame.py game0.txt
@@ -26,7 +32,7 @@ Rush Hour - Text-Based Version:
 	These numbers must be separated by commas, with or without spaces.
 
 
-Rush Hour - Graphical Version
+### Rush Hour - Graphical Version
 
 	Load a game file with the following call:	
 		python3 RushHourGUI.py game0.txt
