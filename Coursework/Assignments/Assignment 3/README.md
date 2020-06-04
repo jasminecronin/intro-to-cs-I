@@ -1,19 +1,18 @@
 
-# Introduction to Computer Science for Computer Science Majors I
+## Assignment 3
 
-## Coursework
+![Cap 1](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-1.png)
 
-The work for this course is divided into Tutorials, Exercises, and Assignments.
+![Cap 2](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-2.png)
 
-### Tutorials
+![Cap 3](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-3.png)
 
-Hands-on practice problems given in a lab setting.
+![Cap 4](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-4.png)
 
-### Exercises
+![Cap 5](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-5.png)
 
-Small weekly assignments to write small programs or sometimes single functions.
+![Cap 6](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-6.png)
 
-### Assignments
+![Cap 7](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-7.png)
 
-Five larger assignments worth a larger portion of the grade.
-
+![Cap 8](https://github.com/jasminecronin/intro-to-cs-I/blob/master/Coursework/Assignments/Assignment%203/assignment3-8.png)
