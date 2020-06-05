@@ -5,10 +5,6 @@
 
 The work for this course is divided into Tutorials, Exercises, and Assignments.
 
-### Tutorials
-
-Hands-on practice problems given in a lab setting.
-
 ### Exercises
 
 Small weekly assignments to write small programs or sometimes single functions.
