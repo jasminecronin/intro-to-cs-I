@@ -3,7 +3,7 @@
 
 ## Coursework
 
-The work for this course is divided into Tutorials, Exercises, and Assignments.
+The work for this course is divided into Exercises and Assignments.
 
 ### Exercises
 
